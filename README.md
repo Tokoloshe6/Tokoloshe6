@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe Warner</h1>
 <h3 align="center">A passionate Unity developer and aspiring pixel artist from Surrey, England</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tokoloshe6" alt="tokoloshe6" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://josephwarnergames.webflow.io/](https://josephwarnergames.webflow.io/)
 
